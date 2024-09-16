@@ -16,7 +16,6 @@ namespace Puls3.Valheim {
             public const string Author = "Puls3";
 
             public const string Version = "1.0.0.0";
-            public const string Released = "2024-08-15";
 
         }
         
